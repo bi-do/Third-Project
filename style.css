@@ -1,0 +1,57 @@
+#pop-button{
+    background-color: white;
+    border: none;
+    width: 20px;
+    margin-right: 10px;
+}
+.input-line{
+    margin-top: 10px;
+    display: flex;
+}
+
+#search-button{
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+
+
+.title {
+  display: flex;
+  justify-content: center;
+}
+
+.title svg {
+  max-width: 430px;
+  margin-top: 40px;
+}
+
+
+.news-button {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 10px;
+  border-top: 1px solid #ebebeb;
+  border-bottom: 4px double black;
+  padding: 7px 0;
+}
+
+.news-button button {
+
+    border: none;
+    background: none;
+    
+}
+
+.news-img img {
+  width: 100%;
+}
+
+.main-tag {
+  display: flex;
+  align-items: center;
+  padding: 15px;
+  border-bottom: 1px solid black;
+}
