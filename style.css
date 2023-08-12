@@ -45,6 +45,10 @@
     
 }
 
+.news-button button:hover{
+  background-color: bisque;
+}
+
 .news-img img {
   width: 100%;
 }
@@ -54,4 +58,7 @@
   align-items: center;
   padding: 15px;
   border-bottom: 1px solid black;
+}
+.alert-danger{
+  text-align: center;
 }
